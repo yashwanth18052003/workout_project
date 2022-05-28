@@ -17,4 +17,4 @@ Here we will provide classes online which help many people around the world can 
 Primary Azure Technology : Static Web Apps , Web Apps.
 
 Direct Access to the Azure Gym Workout Website : https://mango-smoke-007395f10.1.azurestaticapps.net/
-
+Project deployment Demo video : https://youtu.be/Ym_RurbQs70
