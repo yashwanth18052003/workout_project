@@ -1,4 +1,4 @@
-GYM WORKOUT WEBSITE with online classes
+GYM WORKOUT WEBSITE
 
 Web Technologies used: HTML, CSS, JS.
 
